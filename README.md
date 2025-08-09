@@ -5,4 +5,3 @@
 -
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaVolieari&layout=compact&langs_count=7&theme=dracula"/>
 
-![Iron Man GIF]([https://media.tenor.com/images/fe4f59dbab271b42bcaeb6910bbdca5b/tenor.gif](https://media1.tenor.com/m/1hIfOVIolbMAAAAd/iron-man-tony-stark.gif))
