@@ -1,11 +1,14 @@
-img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
+
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ 
+
 
 # Hi there, I'm Lívia 👋  
 ## Welcome to my academic chaos 💥
 
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 🎓 I'm studying computer science for the internet at IFRN.
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
