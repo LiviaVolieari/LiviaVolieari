@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab46e8&height=120&section=header">
 
 # Hi there, I'm Lívia 👋  
-## Welcome to my academic chaos 💥
+
+💥 Welcome to my academic chaos 
 
 🎓 I'm studying computer science for the internet at IFRN.
 
