@@ -6,7 +6,7 @@
 
 🎓 I'm studying computer science for the internet at IFRN.
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmdzhxenY1OGprdXUzcTFrNXliYzAxbDZoMncwNnUwbG56cm9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif' style='width=350px'>
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmdzhxenY1OGprdXUzcTFrNXliYzAxbDZoMncwNnUwbG56cm9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif' style='width=500px'>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
