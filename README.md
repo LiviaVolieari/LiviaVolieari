@@ -6,8 +6,9 @@
 🎓 I'm studying computer science for the internet at IFRN.
 
 <br>
-<div align="center" style='display:flex; justify-content:center; align-items:center; '>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmdzhxenY1OGprdXUzcTFrNXliYzAxbDZoMncwNnUwbG56cm9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif' style='width:400px'>
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmdzhxenY1OGprdXUzcTFrNXliYzAxbDZoMncwNnUwbG56cm9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif" style="height:200px; width:auto;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1nZXp1c3Z1eWlqOWoxdThkbGRibG05ZGtxdDIzeWp2aWlocWYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/50fuVHMGUVszu/giphy.gif" style="height:200px; width:auto;">
 </div>
 
 <br>
