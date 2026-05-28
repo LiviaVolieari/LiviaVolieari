@@ -5,6 +5,10 @@
 
 🎓 I'm studying computer science for the internet at IFRN.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Isa-fee/Isa-fee/output/snake.svg" alt="Snake animation" />
+</p>
+
 <br>
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmdzhxenY1OGprdXUzcTFrNXliYzAxbDZoMncwNnUwbG56cm9wdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif" style="height:200px; width:auto;">
@@ -18,8 +22,6 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaVolieari&layout=compact&bg_color=1e1e1e&title_color=6a5acd&text_color=6a5acd&border_color=7b68ee"/>
   </a>
 </div>
-
-
   
 <br>
 
